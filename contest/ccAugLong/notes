@@ -1,0 +1,5 @@
+vi A_time(n);
+    A_time[0]=time[0];
+    for(int i=1;i<n-1;i++){
+        A_time[i]+=A_time[i-1];
+    }

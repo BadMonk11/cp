@@ -1,0 +1,1 @@
+{"name":"Local: ArrayEquality","url":"d:\\Codes\\contest\\ccAugLunchTime\\ArrayEquality.cpp","tests":[{"id":1661180764794,"input":"2\n5\n1 1 1 1 1\n3\n3 3 4","output":"No\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codes\\contest\\ccAugLunchTime\\ArrayEquality.cpp","group":"local","local":true}

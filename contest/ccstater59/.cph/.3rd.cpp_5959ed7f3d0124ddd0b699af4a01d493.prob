@@ -1,0 +1,1 @@
+{"name":"Local: 3rd","url":"d:\\Codes\\cp\\contest\\ccstater59\\3rd.cpp","tests":[{"id":1664982099760,"input":"4\naeiou\nabxy\naebcdefghij\nabcdeeafg","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codes\\cp\\contest\\ccstater59\\3rd.cpp","group":"local","local":true}

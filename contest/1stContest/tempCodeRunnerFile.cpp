@@ -1,0 +1,1 @@
+nums[i]=(nums[i]+func(code[i],length[i]))%10;
